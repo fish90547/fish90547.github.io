@@ -6,7 +6,7 @@ createApp({
   data(){
     return{
       url: 'https://vue3-course-api.hexschool.io/v2',
-      path: 'austynfreegame',
+      path: 'austynfree',
       // 產品
       products: [],
       // 選擇查看細節
